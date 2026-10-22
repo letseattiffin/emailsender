@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recruiter Email Sender
 
 Simple Spring Boot project that:
@@ -92,3 +93,7 @@ MAIL_SENDING_ENABLED=true
 ```
 
 Test with your own email address first before adding a larger recruiter list.
+=======
+# emailsender
+This project is used for email job related email sents
+>>>>>>> 27e8a4c547d54750ea24ba761a2a1b88f8c04e16
